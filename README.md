@@ -2,6 +2,8 @@
 
 A beautiful, mobile-first e-commerce website for selling luxury watches, designed specifically for the Algerian market.
 
+[live the demo](https://temp-like-shopify.onrender.com)
+
 ## Features
 
 - **Modern Design**: Premium black and gold color scheme with smooth animations
